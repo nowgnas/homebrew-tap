@@ -1,8 +1,8 @@
 cask "prism" do
-  version "0.2.0"
-  sha256 "1c83b1a8377982c3a225491fea573724aea08524d167d7d3b1f9d7e2f2cbcce8"
+  version "0.2.1"
+  sha256 "c6423caf28f9b9dbaf646fe7a2810e3418ac4c14c5cc37f86cdfab8a138999da"
 
-  url "https://github.com/nowgnas/prism/releases/download/v0.2.0/Prism.zip"
+  url "https://github.com/nowgnas/prism/releases/download/v0.2.1/Prism.zip"
   name "Prism"
   desc "A neon-styled terminal multiplexer with color-coded tabs"
   homepage "https://github.com/nowgnas/prism-app"
